@@ -6,7 +6,11 @@ let path = require("path");
 
 let fs = require("fs");
 
-const port = process.env.PORT;
+//const port = process.env.PORT;    this was for render
+
+// this is for ec2
+
+const port = 8000;
 
 
 
