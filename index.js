@@ -16,7 +16,9 @@ const port = 8000;
 
 // DISABLE THIS hostname FOR INTRANET USE
 
-const hostname = "0.0.0.0";
+//const hostname = "0.0.0.0"; this was for render
+
+const hostname = "13.58.72.148";
 
 
 
