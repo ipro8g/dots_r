@@ -10,7 +10,7 @@ let fs = require("fs");
 
 // this is for ec2
 
-const port = 8000;
+const port = 80;
 
 
 
