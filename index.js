@@ -16,7 +16,7 @@ const port = 80;
 
 // DISABLE THIS hostname FOR INTRANET USE
 
-const hostname = "0.0.0.0"; 
+const hostname = "0.0.0.0/0"; 
 
 
 
