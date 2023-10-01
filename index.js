@@ -6,17 +6,10 @@ let path = require("path");
 
 let fs = require("fs");
 
-//const port = process.env.PORT;    this was for render
-
-// this is for ec2
-
-const port = 80;
+const port = process.env.PORT;   
 
 
-
-// DISABLE THIS hostname FOR INTRANET USE
-
-const hostname = "0.0.0.0/0"; 
+const hostname = "0.0.0.0"; 
 
 
 
