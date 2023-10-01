@@ -18,7 +18,7 @@ const port = 8000;
 
 //const hostname = "0.0.0.0"; this was for render
 
-const hostname = "13.58.72.148";
+const hostname = "localhost";
 
 
 
