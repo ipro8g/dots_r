@@ -18,7 +18,9 @@ const port = 8000;
 
 //const hostname = "0.0.0.0"; this was for render
 
-const hostname = "localhost";
+// this is for ec2
+
+const hostname = "172.31.29.132"; 
 
 
 
