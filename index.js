@@ -16,11 +16,7 @@ const port = 8000;
 
 // DISABLE THIS hostname FOR INTRANET USE
 
-//const hostname = "0.0.0.0"; this was for render
-
-// this is for ec2
-
-const hostname = "172.31.29.132"; 
+const hostname = "0.0.0.0"; 
 
 
 
