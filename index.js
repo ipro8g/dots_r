@@ -10,21 +10,21 @@ let fs = require("fs");
 
 // this is for ec2
 
-const port = 80;
+const port = 8000;
 
 
 
 // DISABLE THIS hostname FOR INTRANET USE
 
-const hostname = "0.0.0.0"; 
+//const hostname = "localhost"; 
 
 
 
 //ENABLE THIS ip AND hostname FOR INTRANET USE
 
-//var ip = require("ip");
+var ip = require("ip");
 
-//const hostname = ip.address();
+const hostname = ip.address();
 
 
 
